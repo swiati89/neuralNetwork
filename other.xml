@@ -1,0 +1,36 @@
+<application>
+  <component name="RefactoringSettings">
+    <option name="MOVE_PREVIEW_USAGES" value="false" />
+  </component>
+  <component name="SvnApplicationSettings">
+    <option name="myCheckoutURLs">
+      <list>
+        <option value="http://172.29.1.50/svn/Paszportyzacja/branches/before_merge" />
+        <option value="http://172.29.1.50/svn/Paszportyzacja/branches/pswiatek" />
+        <option value="http://172.29.1.50/svn/Paszportyzacja/trunk" />
+      </list>
+    </option>
+    <option name="myTypedURLs">
+      <list>
+        <option value="http://172.29.1.50/svn/Paszportyzacja/branches/before_merge" />
+        <option value="http://172.29.1.50/svn/Paszportyzacja/branches/pswiatek" />
+        <option value="http://172.29.1.50/svn/Paszportyzacja/trunk" />
+        <option value="http://172.29.1.50/svn/Paszportyzacja/" />
+      </list>
+    </option>
+    <option name="mySvnCommandLine" value="C:\Program Files\SVN\Apache-Subversion-1.9.5\bin\svn.exe" />
+  </component>
+  <component name="SvnBranchMapperManager">
+    <option name="myMapping">
+      <map>
+        <entry key="http://172.29.1.50/svn/Paszportyzacja/trunk">
+          <value>
+            <set>
+              <option value="C:\Users\pswiatek\Documents\InteliJProjects\svn\Paszportyzacja" />
+            </set>
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+</application>
